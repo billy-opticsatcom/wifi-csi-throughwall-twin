@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite it as below."
+title: "Passive Through-Wall Human Sensing with Commodity WiFi Channel State Information: A Digital-Twin Study"
+type: software
+authors:
+  - family-names: "Sabilly"
+    given-names: "Ikhlas"
+    email: "ikhlas.sabilly@gmail.com"
+version: "1.0.0"
+date-released: "2026-11-20"
+license-url: "LICENSE"
+keywords:
+  - WiFi sensing
+  - channel state information
+  - through-wall sensing
+  - digital twin
+  - ray tracing
+  - Sionna RT
+  - ESP32
+  - CSI ratio
+  - presence detection
+  - respiration monitoring
+  - indoor localisation
+abstract: >-
+  A digital-twin study of passive through-wall human sensing with commodity WiFi CSI: a Blender model of a
+  one-bedroom flat with articulated occupants, Sionna RT ray tracing of every link, an ESP32-class receiver
+  model with interference, and pre-registered detectors for motion, breathing, bed occupancy and room-level
+  tracking, checked against public real ESP32 recordings.
